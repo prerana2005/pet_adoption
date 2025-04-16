@@ -42,7 +42,6 @@ npm install
 
 # Create a .env file with the following:
 # MONGO_URI=your_mongodb_connection
-# JWT_SECRET=your_jwt_secret
 npm run dev
 
 3. Setup Frontend:
